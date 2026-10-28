@@ -1,6 +1,6 @@
 ## João Tessarolo
 
-Senior Software Engineer focused on building scalable, reliable, and maintainable applications. I work across the stack, with a strong focus on backend engineering, API design, and clean architecture. :)
+Senior Software Engineer focused on building scalable, reliable, and maintainable applications. I work across the stack, with a strong focus on backend engineering, API design, and clean architecture :)
 
 **Tech Stack**
 
