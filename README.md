@@ -1,16 +1,23 @@
-## Hi there 👋
+# João Tessarolo
 
-<!--
-**joaotessarolo/joaotessarolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on building scalable, reliable, and maintainable applications.
 
-Here are some ideas to get you started:
+I work across the stack, with a strong focus on backend engineering, API design, and clean architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Backend:** Python, Django, FastAPI, Go
+
+**Frontend:** TypeScript, React, Next.js
+
+**Database & Tools:** PostgreSQL, Docker, Git
+
+### Currently
+
+- Building and improving software systems
+- Exploring backend architecture and distributed systems
+- Always learning, always shipping
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/joaotessarolo/) · [Email](mailto:victortessarollo@gmail.com)
