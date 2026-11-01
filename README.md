@@ -18,4 +18,3 @@ Senior Software Engineer focused on building scalable, reliable, and maintainabl
 **Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaotessarolo/)
-[![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:victortessarollo@gmail.com)
