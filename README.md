@@ -3,7 +3,6 @@
 Senior Software Engineer focused on building scalable, reliable, and maintainable applications. I work across the stack, with a strong focus on backend engineering, API design, and clean architecture :)
 
 **Tech Stack**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -16,5 +15,4 @@ Senior Software Engineer focused on building scalable, reliable, and maintainabl
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Connect**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaotessarolo/)
